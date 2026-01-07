@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-heeeeello word
-=======
 Hello world !
->>>>>>> c954af0869e28657faf569a9d77c39d277299cb6
